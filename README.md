@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Mandar 👋
 
-<!--
-**Mandar-6/Mandar-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer | React.js | Python | Django
 
-Here are some ideas to get you started:
+I enjoy building scalable applications, designing backend systems, and solving real-world engineering problems.
+- 🔭 Working on full-stack application development and multi-tenant systems.
+- 💻 Building applications using React.js, React Native, Python, and Django.
+- 🌱 Currently exploring System Design, distributed systems, and DevOps.
+- ⚙️ Interested in backend architecture, API development, and application engineering.
+- 📫 Open to collaborating on interesting engineering projects.
+Languages
+- Python | JavaScript | SQL
+Frontend
+- React.js | React Native | HTML5 | CSS3
+Backend
+- Django | Django REST Framework | Node.js | REST APIs
+Database & Infrastructure
+- PostgreSQL | MySQL | Redis | Docker
+Tools
+- Git | GitHub | Jenkins | VS Code | Android Studio
+Project	Description	Technologies
+Chemical Product Inventory	Full-stack chemical inventory management application	React, Node.js, MySQL
+ChemFlo CRM	Multi-tenant CRM application development	Django, PostgreSQL, React Native
+Playlist Manager	Spotify-inspired playlist management application	HTML, CSS, JavaScript
+React Authentication	Login and signup interface	React.js
+		
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- GitHub: [@Mandar-6](https://github.com/Mandar-6)
+- LinkedIn: [https://linkedin.com/in/mandar-mandavgane]
+- Email: [mandar814.work@gamil.com]
+Building, learning, and improving one commit at a time. 🚀
